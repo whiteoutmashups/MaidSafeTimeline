@@ -96,6 +96,19 @@ JUN 10 - Cr ep 2 intvw Daniel Dabek about SAFEx & Future commerce
 JUN 3 - Cr ep 1 "What is SAFE Network anyway?" Podcast begins
 
 
+2016
+APR 22 - Testnet1, public users may run vaults for the first time. https://safenetforum.org/t/maidsafe-dev-update-21st-april-2016/8826/3
+MAY 7 - Testnet2, testing improvements to NAT traversal and vault stability. https://safenetforum.org/t/safe-network-test-2-update-7th-may-12-15-bst-now-complete/9079
+MAY 17 - Testnet3, testing performance of improvements to vaults and their underlying libraries. https://safenetforum.org/t/maidsafe-dev-update-17th-may-2016-test-3-update-20th-may-13-30-bst-now-complete/9273
+JUN 15 - Testnet4, testing reducing resource usage (especially bandwidth) due to messaging. https://safenetforum.org/t/maidsafe-dev-update-14th-june-2016-test-4-now-complete/9829
+JUL 1 - Testnet5, testing data persistence and nodes with insufficient capabilities. https://safenetforum.org/t/test5-aka-destructive-test-is-now-running/10096
+JUL 16 - Testnet6, focused on the new Launcher UI with logs and charts. https://safenetforum.org/t/safe-network-test-6/10291
+JUL 28 - Testnet7, testing new launcher and demoapp user experience. https://safenetforum.org/t/safe-network-test-7/10460
+AUG 13 - Alphanet1, the first alpha network starts, which is meant to be a longer-lived test network. https://safenetforum.org/t/safe-network-alpha-release/10687
+AUG 24 - Testnet8, testing bug fixes. https://safenetforum.org/t/maidsafe-dev-update-23th-august-2016-test-8/10908
+SEP 17 - Testnet9, testing email app. https://safenetforum.org/t/safe-network-test-9-safe-mail-tutorial/11181
+
+
 Timeline
 http://maidsafe.net/timeline
 Jira
