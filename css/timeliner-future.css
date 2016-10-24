@@ -319,3 +319,24 @@ a:visited {
 .timeline-event-content .media p a {
   text-transform: lowercase;
 }
+
+@media all and (max-width: 940px) {
+  .container {
+    width: 100%;
+  }
+  .timeline-container {
+    width: 100%;
+  }
+  .timeline-wrapper {
+    width: 100%;
+  }
+  .timeline-series {
+    width: 98%;
+  }
+  .timeline-event-content p {
+    width: 98%;
+  }
+  .timeline-event-content blockquote {
+    width: 98%;
+  }
+}
